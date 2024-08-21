@@ -1,0 +1,1 @@
+This is my first project working on a big data set (8GB+). The data includes many different variables which makes it challenging and interesting. Utilizing different algorithms, I tried to pull a few of analysis on the characteristics of beer sales in Iowa.
